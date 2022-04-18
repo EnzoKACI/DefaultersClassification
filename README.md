@@ -1,4 +1,4 @@
-# IntroNotebooktoML
+# Defaulters Classification task on a Kaggle Dataset
 
 Intro notebook to Machine Learning (loan defaulters issue)
 
